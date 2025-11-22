@@ -1,1 +1,2 @@
 # portable_uvc_bottle
+#### In an effort to address the global challenge of providing clean drinking water in a portable and sustainable manner, the team presents an innovative solution – the Portable UVC Water Purification Bottle. This smart, IoT-enabled prototype is designed to ensure safe, on-the-go water purification. It offers a promising solution for travelers, remote communities (rural), and emergency scenarios where access to clean drinking water is limited.
